@@ -1,3 +1,3 @@
 # Weather App
  
-[Try it](https://suryansh282.github.io/Weather-App/)
+[Try it](https://praveen1026.github.io/weather/)
